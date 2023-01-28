@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reacctactivity/static/css/main.a1ab6402.css",
+    "main.js": "/reacctactivity/static/js/main.17a590a3.js",
+    "index.html": "/reacctactivity/index.html",
+    "static/media/search.svg": "/reacctactivity/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.a1ab6402.css.map": "/reacctactivity/static/css/main.a1ab6402.css.map",
+    "main.17a590a3.js.map": "/reacctactivity/static/js/main.17a590a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ab6402.css",
+    "static/js/main.17a590a3.js"
+  ]
+}
